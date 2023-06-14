@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import TextInput from "./components/textInput";
+import TextInput from "./components/TextInput";
 import { TodoProvider } from "./context/TodoContext";
 import Card from "./components/Cards";
 import "./App.css";
